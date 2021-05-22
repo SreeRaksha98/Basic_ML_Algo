@@ -1,3 +1,0 @@
-new_file
-modify 1
-modify 2
