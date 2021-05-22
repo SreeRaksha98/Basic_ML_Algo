@@ -1,0 +1,51 @@
+Age,Natural_Pigmentation,Damaged,Label
+4,0,0,not spoiled
+4,1,1,spoiled
+3,1,0,spoiled
+2,0,0,not spoiled
+5,1,0,spoiled
+6,1,1,spoiled
+2,0,0,not spoiled
+4,0,0,not spoiled
+11,1,1,spoiled
+5,1,1,spoiled
+6,0,0,not spoiled
+3,0,1,spoiled
+2,0,0,not spoiled
+4,0,0,not spoiled
+6,1,1,spoiled
+7,1,0,spoiled
+5,1,0,spoiled
+3,1,0,spoiled
+5,0,0,not spoiled
+2,0,1,spoiled
+3,0,0,not spoiled
+6,1,1,spoiled
+9,1,0,spoiled
+6,1,0,spoiled
+3,0,1,spoiled
+5,0,1,spoiled
+7,1,0,spoiled
+10,1,0,spoiled
+3,0,1,spoiled
+12,1,0,spoiled
+2,0,0,not spoiled
+4,0,1,spoiled
+1,0,0,not spoiled
+5,1,0,spoiled
+6,1,0,spoiled
+2,0,1,spoiled
+4,1,0,spoiled
+7,1,0,spoiled
+1,0,0,not spoiled
+13,1,0,spoiled
+2,0,0,not spoiled
+6,1,0,spoiled
+4,0,1,spoiled
+4,0,1,spoiled
+12,1,0,not spoiled
+3,0,0,not spoiled
+6,1,1,spoiled
+1,0,0,not spoiled
+2,1,0,spoiled
+11,1,0,spoiled

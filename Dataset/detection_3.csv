@@ -1,0 +1,51 @@
+Age,Natural_Pigmentation,Damaged,Label
+4,no,no,not spoiled
+4,yes,yes,spoiled
+3,yes,no,spoiled
+2,no,no,not spoiled
+5,yes,no,spoiled
+6,yes,yes,spoiled
+2,no,no,not spoiled
+4,no,no,not spoiled
+11,yes,yes,spoiled
+5,yes,yes,spoiled
+6,no,no,not spoiled
+3,no,yes,spoiled
+2,no,no,not spoiled
+4,no,no,not spoiled
+6,yes,yes,spoiled
+7,yes,no,spoiled
+5,yes,no,spoiled
+3,yes,no,spoiled
+5,no,no,not spoiled
+2,no,yes,spoiled
+3,no,no,not spoiled
+6,yes,yes,spoiled
+9,yes,no,spoiled
+6,yes,no,spoiled
+3,no,yes,spoiled
+5,no,yes,spoiled
+7,yes,no,spoiled
+10,yes,no,spoiled
+3,no,yes,spoiled
+12,yes,no,spoiled
+2,no,no,not spoiled
+4,no,yes,spoiled
+1,no,no,not spoiled
+5,yes,no,spoiled
+6,yes,no,spoiled
+2,no,yes,spoiled
+4,yes,no,spoiled
+7,yes,no,spoiled
+1,no,no,not spoiled
+13,yes,no,spoiled
+2,no,no,not spoiled
+6,yes,no,spoiled
+4,no,yes,spoiled
+4,no,yes,spoiled
+12,yes,no,not spoiled
+3,no,no,not spoiled
+6,yes,yes,spoiled
+1,no,no,not spoiled
+2,yes,no,spoiled
+11,yes,no,spoiled
